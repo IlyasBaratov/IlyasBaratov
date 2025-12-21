@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 </p> -->
 
 <p aling="center">
-  <img src="https://github.com/IlyasBaratov/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/IlyasBaratov/IlyasBaratov/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
