@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasBaratov&layout=compact&theme=github_dark&langs_count=8" />
 </p> -->
 
-![Snake animation](https://github.com/IlyasBaratov/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<p aling="center">
+  <img src="https://github.com/IlyasBaratov/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 
