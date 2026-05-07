@@ -12,7 +12,7 @@ https://connect.ilyasbaratov.com/
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasBaratov&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
+    alt="Most Used Languages."
   />
 </p>
 
