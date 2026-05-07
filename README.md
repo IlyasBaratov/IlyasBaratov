@@ -9,13 +9,18 @@ https://connect.ilyasbaratov.com/
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasBaratov&layout=compact&theme=github_dark&langs_count=8" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasBaratov&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
     alt="Most Used Languages."
   />
+</p> -->
+<p align="center">
+  <img
+    src="https://<your-vercel-app>.vercel.app/api/top-langs?username=IlyasBaratov&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most Used Languages."
+  />
 </p>
-
 
 
  
