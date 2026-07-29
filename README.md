@@ -12,7 +12,7 @@ https://connect.ilyasbaratov.com/
 <!-- Previously tried custom Vercel deployment placeholder below; public instance with caching is more reliable without setup. -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasBaratov&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasBaratov&layout=compact&theme=github_dark&hide_border=true&langs_count=8&v=2"
     alt="Most Used Languages"
   />
 </p>
