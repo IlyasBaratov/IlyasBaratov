@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IlyasBaratov
-- 🎓 Software Engineering student (Junior) at Washington State University
+- 🎓 Software Engineering student (Senior) at Washington State University
 - 📫 How to reach me: ilyas.baratoff@gmail.com 
 - 🌐 Website:
 https://connect.ilyasbaratov.com/
